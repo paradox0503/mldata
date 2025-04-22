@@ -1,2 +1,2 @@
 # mldata
-答题
+python wuweishuju.py
